@@ -5,6 +5,7 @@
 - Formatar fonte do arquivo
 - Monitorar arquivos do computador
 
+Preview
 
 ![Captura de tela 2023-06-10 112049](https://github.com/EMarceloCM/EditorTXT/assets/120042864/e50c5338-3df1-4925-b279-952c8a79af63)
 ![Captura de tela 2023-06-10 112218](https://github.com/EMarceloCM/EditorTXT/assets/120042864/4d9e5dec-3947-4e8f-be89-f9ec1e35aa1e)
